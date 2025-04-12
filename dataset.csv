@@ -1,10 +1,12 @@
 img_name,ground_truth
+1.png,"for(i=0; i<3; i++) {
+printf(""%d"", i);
+printf(""\n"");
+}"
 2.png,"#include <iostream>
 int main(int argc, char ** argv)
 {
 std::cout << ""Hello World!"" << std::endl;
 return 0;
-}"
-1.png,"for(i=0; i<3; i++) {
-printf(""%d"", i);
-printf(""\n"");}"
+}
+"
