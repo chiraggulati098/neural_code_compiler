@@ -4,3 +4,6 @@ venv
 models
 .env
 best_trocr_model
+checkpoint-20
+checkpoint-40
+checkpoint-48
