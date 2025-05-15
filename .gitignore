@@ -4,3 +4,4 @@ venv
 models
 .env
 best_trocr_model
+__pycache__
